@@ -13,6 +13,7 @@ class nimadir extends StatelessWidget {
           children: [
             TextSpan(text:"Flutter",style: Theme.of(context).textTheme.displayLarge),
             TextSpan(text:"Flutter",style: Theme.of(context).textTheme.displayLarge),
+            TextSpan(text:"Flutter",style: Theme.of(context).textTheme.displayLarge),
           ]
         )),
       ),
