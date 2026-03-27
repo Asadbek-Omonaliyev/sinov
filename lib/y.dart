@@ -11,7 +11,8 @@ class nimadir extends StatelessWidget {
         child: RichText(text: TextSpan(
           text: "Salom",
           children: [
-            TextSpan(text:"Flutter",style: Theme.of(context).textTheme.displayLarge)
+            TextSpan(text:"Flutter",style: Theme.of(context).textTheme.displayLarge),
+            TextSpan(text:"Flutter",style: Theme.of(context).textTheme.displayLarge),
           ]
         )),
       ),
